@@ -7,7 +7,7 @@ animalai
 
 Web application for Image Recognition of animals using Keras
 
-keyword: Python, TensorFlow, keras, cnn
+keyword: python, tensorFlow, keras, cnn
 
 # Demo
 
