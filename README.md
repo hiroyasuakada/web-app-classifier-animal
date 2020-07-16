@@ -43,6 +43,6 @@ predict.py
 
 # References
 
-<https://www.udemy.com/tensorflow-advanced/>
+[](<https://www.udemy.com/tensorflow-advanced/>)
 
 
